@@ -1,0 +1,1 @@
+print("face inicial del proyecto")
